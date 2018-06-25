@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    color: black;
+    font-size:18px;
+    background-image: url("https://iasbh.tmgrup.com.tr/21a79a/752/395/0/58/1000/582?u=https://isbh.tmgrup.com.tr/sbh/2017/10/27/en-lezzetli-kisir-tarifi-kisir-nasil-yapilir-ve-malzemeleri-nelerdir-1509111524299.jpg")
+        background-size:cover;
+    width: %50
+        margin:auto;
+}
+
+h1 {
+    text-align: center
+        border-bottom:solid;
+    background-color: burlywood;
+}
+img{
+    border: dotted 5px black;
+    border-radius: 18%;
+    margin: auto
+    width:75%
+    display:block;
+}
